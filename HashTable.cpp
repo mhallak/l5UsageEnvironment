@@ -16,6 +16,7 @@ along with this library; if not, write to the Free Software Foundation, Inc.,
 // Copyright (c) 1996-2013 Live Networks, Inc.  All rights reserved.
 // Generic Hash Table
 // Implementation
+//Nice hashtab
 
 #include "HashTable.hh"
 
